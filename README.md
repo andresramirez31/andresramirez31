@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Andres Ramirez, Python and java programmer 
+
+- 🌱 I’m currently learning ML and Deep learning for Artificial Intelligence
 <!--
 **andresramirez31/andresramirez31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
